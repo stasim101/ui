@@ -6,6 +6,7 @@
 ```
 Node.js - node 14.15 & npm
 Angular - ng 10 or above 
+Git - remote / local
 ```
 
 ## Steps to run the application
