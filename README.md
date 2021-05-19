@@ -5,7 +5,7 @@
 ## Prerequisites
 ```
 Node.js - node 14.15 & npm
-Angular 10 & above - ng
+Angular - ng 10 or above 
 ```
 
 ## Steps to run the application
